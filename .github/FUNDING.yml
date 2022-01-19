@@ -1,0 +1,16 @@
+# Ce sont les plateformes de modèles de financement supportées
+
+github : # Remplacer par un maximum de 4 noms d'utilisateurs compatibles avec les sponsors GitHub, par exemple [user1, user2].
+patreon : # Remplacer par un seul nom d'utilisateur Patreon
+open_collective : # Remplacer par un seul nom d'utilisateur Open Collective
+ko_fi : # Remplacer par un seul nom d'utilisateur Ko-fi
+tidelift : # Remplacer par un seul nom de plateforme ou de paquetage Tidelift, par exemple npm/babel.
+community_bridge : # Remplacer par un nom de projet Community Bridge unique, par exemple cloud-foundry.
+liberapay : # Remplacer par un seul nom d'utilisateur Liberapay
+issuehunt : # Remplacer par un seul nom d'utilisateur IssueHunt
+otechie : # Remplacer par un seul nom d'utilisateur Otechie
+lfx_crowdfunding : # Remplacer par un seul nom de projet LFX Crowdfunding, par exemple, cloud-foundry.
+custom : # Remplacer par un maximum de 4 URL de parrainage personnalisées, par exemple ['link1', 'link2'].
+
+
+Traduit avec www.DeepL.com/Translator (version gratuite)
